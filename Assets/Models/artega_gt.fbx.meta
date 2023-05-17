@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 7811beb4f708b5d4187118190f93aa1c
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -9036366349302727653
+    second: tire.001|CameraAction
+  - first:
+      74: 4739502180536564655
+    second: tire.001|carAction.001
+  - first:
+      74: -7929908755511378799
+    second: tire.001|tire.001Action
+  - first:
+      74: -1637161114440501240
+    second: tire.001|tire.002Action
+  - first:
+      74: -6738863507721462395
+    second: tire.001|tire.003Action
+  - first:
+      74: 8569848836788138749
+    second: tire.001|tire.004Action
+  - first:
+      74: -4724070267764906437
+    second: car|CameraAction
+  - first:
+      74: -7696071752909035472
+    second: car|carAction.001
+  - first:
+      74: 4768630049559986260
+    second: car|tire.001Action
+  - first:
+      74: 7861296614146212961
+    second: car|tire.002Action
+  - first:
+      74: -2507096780211854592
+    second: car|tire.003Action
+  - first:
+      74: -3292036718363817880
+    second: car|tire.004Action
+  - first:
+      74: -75307953078890757
+    second: tire.002|CameraAction
+  - first:
+      74: -6312455694868603967
+    second: tire.002|carAction.001
+  - first:
+      74: -8590348745694940598
+    second: tire.002|tire.001Action
+  - first:
+      74: -1687593347422448322
+    second: tire.002|tire.002Action
+  - first:
+      74: -591907596750709670
+    second: tire.002|tire.003Action
+  - first:
+      74: -9065332260315328909
+    second: tire.002|tire.004Action
+  - first:
+      74: -7873008230351394797
+    second: tire.003|CameraAction
+  - first:
+      74: -8192896012919548509
+    second: tire.003|carAction.001
+  - first:
+      74: 1645827636401555865
+    second: tire.003|tire.001Action
+  - first:
+      74: -3683568793453355661
+    second: tire.003|tire.002Action
+  - first:
+      74: 6411342422101077747
+    second: tire.003|tire.003Action
+  - first:
+      74: -6911686555202050955
+    second: tire.003|tire.004Action
+  - first:
+      74: 5587935076887994345
+    second: tire.004|CameraAction
+  - first:
+      74: -923656021910277106
+    second: tire.004|carAction.001
+  - first:
+      74: 6234249937174877779
+    second: tire.004|tire.001Action
+  - first:
+      74: -2485534032719281736
+    second: tire.004|tire.002Action
+  - first:
+      74: 4920432894163797758
+    second: tire.004|tire.003Action
+  - first:
+      74: 1451785143120589806
+    second: tire.004|tire.004Action
+  - first:
+      74: 6602186097052286739
+    second: Controller|CameraAction
+  - first:
+      74: 8440248360967096626
+    second: Camera|CameraAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: f22944390b8b5b741a335f2e002e5e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: d03e4c4193ed6484a828956b6c832d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 45551901bddbd324b9554af5c9dee04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 4ca116e0572e486489abb35db5ebcda2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 1ec9f7129e07cb24a83025c43ef43437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: e80fd2dbd674b0644bf5994df049f889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: ce6770fad232fba40baa458b5892b2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 478d3f957d4438e4aa85f8a12cc737a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 278239a4cf412484b9bf2a6aad1db76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 2ded132841234bd44af8a3afa6e9c219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: c808fd7b327caa94f969fd3a321e595a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plate
+    second: {fileID: 2100000, guid: bf892eee3cb09884fa1da33341c19445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wireframe
+    second: {fileID: 2100000, guid: 3c0772fbb15f5a645a1f847abcfc2e0c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

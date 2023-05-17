@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f451ef97e471224d8fc56b2c0da58c3, type: 3}
+  m_Name: Battle_Template
+  m_EditorClassIdentifier: 
+  itemId: fea57c7e-d1d5-4f48-807c-90d118932834
+  _sceneId: 1
+  _nameRus: "\u0411\u0438\u0442\u0432\u0430"
+  _nameEng: Battle
+  _imgPreview: {fileID: 0}
+  _totalEnemiesCount: 50
+  _maxEnemiesOnScene: 30
+  _maxAmmoBoxOnScene: 2
+  _maxHealthBoxOnScene: 2
+  _enemySpawnDelay: 1
+  _moneyForEnemy: 2
+  _donatMoneyForWin: 5
+  _enemyScriptable: {fileID: 0}
+  _enemyBossScriptable: {fileID: 0}
